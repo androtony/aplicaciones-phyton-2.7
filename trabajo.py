@@ -30,3 +30,5 @@ while salida != x :
         x = raw_input("solo se acepta (n , y): ")
 print "fin del programa, adios"
 
+print "buena suerte"
+
