@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 
 print "hola,soy un conversor de kilometros a millas, introduce el numero de kilometros que quires convertir"
